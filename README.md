@@ -1,4 +1,4 @@
-Some misc work I've done to explore new topics.
+Some miscellaneous work I've done to explore new topics.
 
 - java_algorithm: An algorithm I developed in Java.
 
